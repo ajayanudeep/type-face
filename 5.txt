@@ -3,4 +3,4 @@ you can use python to crawl the website
 you can use urllib.parse functionality available in python
 we can get the elements by their tag name such as <p> , <img> etc.,
 now you can get all the elements of a particular tag
-with this you can get extract the text or images from a website
+with this you can extract the text or images from a website
